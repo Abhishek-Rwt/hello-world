@@ -41,7 +41,7 @@ hr {
 
 /* Set a style for the submit button */
 .registerbtn {
-  background-color: pink;
+  background-color: yellow;
   color: white;
   padding: 16px 20px;
   margin: 8px 0;
@@ -71,7 +71,7 @@ a {
 
 <form action="/action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>Register For Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
